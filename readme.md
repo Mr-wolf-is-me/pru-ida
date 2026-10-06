@@ -1,5 +1,7 @@
 # PRU IDA Support Package
 
+[Download the latest release](https://github.com/Mr-wolf-is-me/pru-ida/releases/latest)
+
 Native Texas Instruments PRU analysis for IDA Pro 8.4 (`ida64.exe`) on Windows.
 
 The `pru64.dll` processor module decodes PRU firmware into instructions, registers,
